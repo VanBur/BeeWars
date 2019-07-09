@@ -46,3 +46,7 @@ To play, there must be a button that enables a user to “hit” a random bee. T
 
 When the bees are all dead, the game must be able to reset itself with full life bees for another round.
 in a form of windows app
+
+#TO DO
+1) Class restructurisation
+2) Tests
